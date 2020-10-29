@@ -16,7 +16,7 @@ Prerequisite:
    3.Install Django Rest Framework:
     >>pip install djangorestframework
    
-   4.djongo: Djongo is a SQL to mongodb query transpiler. It translates a SQL query string into a mongoDB query document. As a result, all Django features, models etc work as is.
+   4. Install Djongo: Djongo is a SQL to mongodb query transpiler. It translates a SQL query string into a mongoDB query document. As a result, all Django features, models etc work as is.
     >>pip install djongo
     
    5.Move to our directory using cd or if you are already in it ignore this.
