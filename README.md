@@ -34,4 +34,4 @@ To get access to this panel:
         >>python manage.py runserver
   4.Get admin panel at:
         127.0.0.1:8000/admin
-    You need to add your credential, asked here to get access.
+    You need to add your credential, asked here to get access. 
